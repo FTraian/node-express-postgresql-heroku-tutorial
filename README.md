@@ -18,7 +18,7 @@ Tutorial
 
 Clone this repo:
 
-	$ git clone git@github.com:FTraian/node-express-postgresql-heroku-tutorial.git 	
+	$ git clone https://github.com/FTraian/node-express-postgresql-heroku-tutorial.git 	
 
 Create a Heroku app:
 
