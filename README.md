@@ -20,7 +20,7 @@ Clone this repo:
 
 	$ git clone https://github.com/FTraian/node-express-postgresql-heroku-tutorial.git 	
 
-Create a Heroku app:
+Create a Heroku app. Be careful as <app-name> is global on Heroku so another user might already have the 'test' name:
 
 	$ cd node-express-postgresql-heroku-tutorial
 	$ heroku create <app-name>
